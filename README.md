@@ -1,4 +1,4 @@
-This is a Login System project which serves functionalities like signup, login and signout.
+This is a Login System project which serves functionalities like signup, login and signout. I have used HTML, Bootstap CSS for styling, PHP for server-side scripting, SQL and PHPMyAdmin for maintaining data in the database for this project.
 
 **WEBSITE WORKFLOW:**
 1) User will signup on signup.php -> 

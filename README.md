@@ -1,3 +1,5 @@
+This is a Login System project which serves functionalities like signup, login and signout.
+
 **WEBSITE WORKFLOW:**
 1) User will signup on signup.php -> 
 2) user will get a username and password -> 
